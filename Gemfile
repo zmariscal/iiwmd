@@ -18,6 +18,9 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 # Add Twilio gem
 gem 'twilio-ruby', '~> 5.7.2'
+# Bootstrap
+gem 'bootstrap', '~> 4.0'
+
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
