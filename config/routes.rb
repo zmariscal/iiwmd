@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
 
-root "landing_page#home"
+  resources :posts
+  root "landing_page#home"
 end
